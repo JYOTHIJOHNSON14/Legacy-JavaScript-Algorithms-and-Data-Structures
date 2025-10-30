@@ -3,6 +3,6 @@
 
 
 //There are two ways to write comments in JavaScript:
-   // 1. in-line comment
+   // 1. in-line comment or single line comment
    // 2. multi-line comment:
 

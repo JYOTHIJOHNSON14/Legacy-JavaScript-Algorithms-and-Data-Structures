@@ -6,7 +6,7 @@
 01. 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- 01CommentYourJavaScriptCode.js(#01-Comment-Your-JavaScript-Code)
+- 01 Comment Your JavaScript Code.js(#01-Comment-Your-JavaScript-Code)
 - 
 - [Features](#features)
 - [Tech Stack](#tech-stack)

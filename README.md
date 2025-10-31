@@ -6,6 +6,8 @@
 01. 
 ## Table of Contents
 - [About the Project](#about-the-project)
+- 01CommentYourJavaScriptCode.js(#01CommentYourJavaScriptCode)
+- 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
